@@ -111,7 +111,7 @@
     <redirectTestOutputToFile>true</redirectTestOutputToFile>
     <testRetryCount>2</testRetryCount>
     <src.dir>src/main/java</src.dir>
-    <test.additional.args />
+    <test.additional.args/>
 
     <!-- dependencies -->
     <arquillian-cube.version>1.18.2</arquillian-cube.version>
@@ -169,7 +169,7 @@
     <shrinkwrap.version>3.0.1</shrinkwrap.version>
     <slf4j.version>1.7.32</slf4j.version>
     <snakeyaml.version>1.32</snakeyaml.version>
-    <spotbugs-annotations.version>4.6.0</spotbugs-annotations.version>
+    <spotbugs-annotations.version>4.7.3</spotbugs-annotations.version>
     <javax-annotations-api.version>1.3.2</javax-annotations-api.version>
     <testcontainers.version>1.15.1</testcontainers.version>
     <vertx.version>4.3.2</vertx.version>
