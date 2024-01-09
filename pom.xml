@@ -111,7 +111,7 @@
     <redirectTestOutputToFile>true</redirectTestOutputToFile>
     <testRetryCount>2</testRetryCount>
     <src.dir>src/main/java</src.dir>
-    <test.additional.args />
+    <test.additional.args/>
 
     <!-- dependencies -->
     <arquillian-cube.version>1.18.2</arquillian-cube.version>
@@ -126,7 +126,7 @@
     <commons-lang3.version>3.6</commons-lang3.version>
     <commons-io.version>2.7</commons-io.version>
     <bouncycastle.version>1.0.2.3</bouncycastle.version>
-    <curator.version>5.1.0</curator.version>
+    <curator.version>5.6.0</curator.version>
     <dropwizard.version>4.1.12.1</dropwizard.version>
     <etcd.version>0.5.11</etcd.version>
     <freebuilder.version>2.7.0</freebuilder.version>
